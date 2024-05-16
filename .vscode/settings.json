@@ -1,0 +1,23 @@
+{
+    // VsCode 插件 处理i18n显示的辅助工具
+    // "i18n-ally.localesPaths": ["docs/i18n", "apps/core/src/i18n", "apps/core/src/i18n/locales"],
+    // "i18n-ally.displayLanguage": "tw",
+    // "i18n-ally.annotationInPlace": false,
+    // "i18n-ally.keystyle": "nested",
+    // "i18n-ally.namespace": true,
+    // "i18n-ally.pathMatcher": "{locale}/{namespace}.json",
+    // "i18n-ally.enabledFrameworks": ["i18next", "react"],
+    // "i18n-ally.indent": 4,
+    // "i18n-ally.sortKeys": true,
+    // "i18n-ally.extract.keyMaxLength": 30,
+    // "i18n-ally.defaultNamespace": "common",
+    "eslint.alwaysShowStatus": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
